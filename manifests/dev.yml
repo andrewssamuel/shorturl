@@ -1,0 +1,6 @@
+applications:
+- name: shorturl
+  host: shorturl
+  path: ../target/shorturl-1.0.war
+
+
